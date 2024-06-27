@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bertantasman
-- 👀 I’m interested in swift and java
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in swift and flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me bertantasman@gmail.com
