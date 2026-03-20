@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bertaş</h1>
+<h1 align="center">Hi 👋, I'm Bertan </h1>
 <h3 align="center">🚀 iOS Developer | Building Modern Mobile Apps</h3>
 
 <p align="center">
