@@ -36,7 +36,7 @@
   <a href="mailto:bertantasman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ahmet-bertan-ta%C5%9Fman-5339b4203/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
