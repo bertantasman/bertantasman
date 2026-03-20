@@ -61,5 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bertantasman&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=bertantasman&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
